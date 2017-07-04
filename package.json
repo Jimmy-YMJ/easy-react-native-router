@@ -1,0 +1,30 @@
+{
+  "name": "easy-react-native-router",
+  "version": "0.0.1",
+  "description": "A router to make react-native app easy.",
+  "main": "src/EasyReactNativeRouter.js",
+  "contributors": [
+    {
+      "name": "Jimmy-YMJ",
+      "email": "ddmingmingyang@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jimmy-YMJ/easy-react-native-router"
+  },
+  "author": "Jimmy-YMJ",
+  "license": "MIT",
+  "dependencies": {
+    "mini-routerjs": "^1.1.5",
+    "simple-url": "^1.1.8"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1"
+  }
+}
